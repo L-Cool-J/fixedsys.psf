@@ -10,4 +10,4 @@ change linux console font
 
 - Permanent use:
 
-    `Change FONT=fixedsys-116 in /etc/vconsole.conf`
+    `Set FONT=fixedsys-116 in /etc/vconsole.conf`
