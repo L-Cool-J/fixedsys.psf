@@ -12,3 +12,4 @@ change linux console font
 
     `Set FONT=fixedsys-116 in /etc/vconsole.conf`
 
+1
